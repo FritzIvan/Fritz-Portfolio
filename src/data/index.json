@@ -1,0 +1,54 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "LMy focus is on developing clean, modular, and reusable component architectures that ensure scalability and maintainability"
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "I am highly skilled in designing and implementing efficient RESTful APIs for seamless data exchange between the frontend and the database."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "I translate complex user needs into intuitive and aesthetically pleasing interfaces. My design workflow begins with user research and wireframing, progressing to high-fidelity mockups using tools like Figma."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Webflow Development",
+      "description": "I leverage Webflow to build highly customized, professional websites with maximum design control without compromising speed or clean code structure"
+    }
+  ],
+   "projects": [
+    {
+      "id": "1",
+      "src": "./img/AwesomeToDo.png",
+      "title": "AwesomeToDo",
+      "description": " ",
+      "link": "View Project",
+      "url": "https://chongsawesometodosapp.onrender.com"
+    },
+    {
+      "id": "2",
+      "src": "./img/LOGO (1).png",
+      "title": "Xhibit",
+      "description": "",
+      "link": "View Project",
+      "url": "https://github.com/<your-username>/app-dashboard"
+    },
+    {
+      "id": "3",
+      "src": "./img/Frame 47.png",
+      "title": "Eventor",
+      "description": " ",
+      "link": "View Project",
+      "url": "https://github.com/<your-username>/easy-rentn"
+    }
+  ]
+}
